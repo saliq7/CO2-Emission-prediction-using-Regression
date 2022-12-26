@@ -8,4 +8,5 @@ Methodology:
           Implementing a Linear regression model to make our predictions.
           Accuracy calculations.
           
-          ![Screenshot (226)](https://user-images.githubusercontent.com/115879307/209573445-62c14361-17b6-42bc-be0d-48a7d5beb739.png)
+  ![Screenshot (226)](https://user-images.githubusercontent.com/115879307/209573502-d7fbf08e-a6e0-40c0-8057-783061fcdd2f.png)
+
